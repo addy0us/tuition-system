@@ -93,6 +93,12 @@ Default Login
 | URL | `http://localhost/tuition_system/auth/login.php` |
 | Role | admin / student |
 
+LOG IN:
+admin email: admin@tuition.com
+admin password: admin123
+
+student email: may create one in CREATE STUDENT or adrianna@student.com
+student password: student123
 ---
 
 ## Project Structure
@@ -134,5 +140,6 @@ Indexes have been applied on frequently queried columns to optimize performance:
 ---
 
 ## License
+
 
 This project was developed as part of the **IMS560 Advanced Database Management System** group assignment.
