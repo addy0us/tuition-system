@@ -9,7 +9,7 @@ A web-based Tuition Management System built with **PHP**, **MySQL**, and **Boots
 - **Frontend:** HTML, CSS, Bootstrap 5, Google Fonts (Poppins)
 - **Backend:** PHP (procedural)
 - **Database:** MySQL
-- **Local Server:** XAMPP / WAMP / MAMP
+- **Local Server:** Laragon
 
 ---
 
@@ -143,3 +143,4 @@ Indexes have been applied on frequently queried columns to optimize performance:
 
 
 This project was developed as part of the **IMS560 Advanced Database Management System** group assignment.
+
